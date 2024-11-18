@@ -4,44 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dr1W7v1rFWQzsk5uInea-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dr1W7v1rFWQzsk5uInea-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Dr1W7v1rFWQzsk5uInea-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dr1W7v1rFWQzsk5uInea-1" target="Dr1W7v1rFWQzsk5uInea-3">
+        <mxCell id="Dr1W7v1rFWQzsk5uInea-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Dr1W7v1rFWQzsk5uInea-1" target="Dr1W7v1rFWQzsk5uInea-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="340" as="sourcePoint" />
             <mxPoint x="190" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dr1W7v1rFWQzsk5uInea-3" value="nhập 2 số:&lt;br&gt;a và b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Dr1W7v1rFWQzsk5uInea-3" value="nhập 2 số:&lt;br&gt;a và b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dr1W7v1rFWQzsk5uInea-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dr1W7v1rFWQzsk5uInea-3">
+        <mxCell id="Dr1W7v1rFWQzsk5uInea-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Dr1W7v1rFWQzsk5uInea-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="340" as="sourcePoint" />
             <mxPoint x="190" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dr1W7v1rFWQzsk5uInea-5" value="số nhỏ hơn = a nếu a&amp;lt;b&lt;br&gt;số nhỏ hơn = b nếu a&amp;gt;b&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="310" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Dr1W7v1rFWQzsk5uInea-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dr1W7v1rFWQzsk5uInea-5">
+        <mxCell id="Dr1W7v1rFWQzsk5uInea-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="205" y="370" as="sourcePoint" />
             <mxPoint x="190" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dr1W7v1rFWQzsk5uInea-8" value="in số nhỏ hơn" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Dr1W7v1rFWQzsk5uInea-8" value="in số nhỏ hơn" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dr1W7v1rFWQzsk5uInea-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dr1W7v1rFWQzsk5uInea-8" target="Dr1W7v1rFWQzsk5uInea-10">
+        <mxCell id="Dr1W7v1rFWQzsk5uInea-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Dr1W7v1rFWQzsk5uInea-8" target="Dr1W7v1rFWQzsk5uInea-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="440" as="sourcePoint" />
             <mxPoint x="190" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dr1W7v1rFWQzsk5uInea-10" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dr1W7v1rFWQzsk5uInea-10" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DKN24SGY0n0ecUretL3z-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;số nhỏ hơn = a nếu a&amp;lt;b&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;số nhỏ hơn = b nếu a&amp;gt;b&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
